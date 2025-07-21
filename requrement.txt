@@ -1,0 +1,7 @@
+streamlit
+pytrends
+pandas
+scikit-learn
+matplotlib
+tensorflow
+prophet
